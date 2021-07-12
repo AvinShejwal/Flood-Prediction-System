@@ -1,1 +1,3 @@
 # IoT-based-flood-prediction-system-2
+As, a solution to the existing problem, an IoT based approach is taken to design a Flood prediction system, using various sensors and microcontroller, on proteus software. From the microcontroller, the data for the above parameters, is uploaded to the Firebase, which is central database. For the end consumer, a web app is designed, which retrieve the data from Firebase and display the readings in a graphical format.
+This project predominantly combines two-study fields-based control systems and data gathering technique, to create a large database system depending on the employed attributes to generate the presented data.
